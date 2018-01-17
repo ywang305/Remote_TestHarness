@@ -1,0 +1,5 @@
+D:\Syracuse\Project4\TestExecutive\bin\Debug\TestExecutive.exe.config
+D:\Syracuse\Project4\TestExecutive\bin\Debug\TestExecutive.exe
+D:\Syracuse\Project4\TestExecutive\bin\Debug\TestExecutive.pdb
+D:\Syracuse\Project4\TestExecutive\obj\Debug\TestExecutive.exe
+D:\Syracuse\Project4\TestExecutive\obj\Debug\TestExecutive.pdb

@@ -1,0 +1,14 @@
+D:\Syracuse\Project4\Interface\bin\Debug\Interface.dll
+D:\Syracuse\Project4\Interface\bin\Debug\Interface.pdb
+D:\Syracuse\Project4\Interface\bin\Debug\Message.dll
+D:\Syracuse\Project4\Interface\bin\Debug\Message.pdb
+D:\Syracuse\Project4\Interface\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Syracuse\Project4\Interface\obj\Debug\Interface.dll
+D:\Syracuse\Project4\Interface\obj\Debug\Interface.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Interface\bin\Debug\Interface.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Interface\bin\Debug\Interface.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Interface\bin\Debug\Message.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Interface\bin\Debug\Message.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Interface\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\Interface\obj\Debug\Interface.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Interface\obj\Debug\Interface.pdb

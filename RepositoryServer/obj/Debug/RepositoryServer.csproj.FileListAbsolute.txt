@@ -1,0 +1,32 @@
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\RepositoryServer.exe.config
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\RepositoryServer.exe
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\RepositoryServer.pdb
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\FileStreamService.exe
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\Message.dll
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\HRTimer.dll
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\Interface.dll
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\Logger.dll
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\FileStreamService.pdb
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\Message.pdb
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\HRTimer.pdb
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\Interface.pdb
+D:\Syracuse\Project4\RepositoryServer\bin\Debug\Logger.pdb
+D:\Syracuse\Project4\RepositoryServer\obj\Debug\RepositoryServer.csprojResolveAssemblyReference.cache
+D:\Syracuse\Project4\RepositoryServer\obj\Debug\RepositoryServer.exe
+D:\Syracuse\Project4\RepositoryServer\obj\Debug\RepositoryServer.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\RepositoryServer.exe.config
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\RepositoryServer.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\RepositoryServer.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\FileStreamService.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\Message.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\HRTimer.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\Interface.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\Logger.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\FileStreamService.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\Message.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\HRTimer.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\Interface.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\bin\Debug\Logger.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\obj\Debug\RepositoryServer.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\obj\Debug\RepositoryServer.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\RepositoryServer\obj\Debug\RepositoryServer.pdb

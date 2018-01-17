@@ -1,0 +1,11 @@
+D:\Syracuse\Project4\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+D:\Syracuse\Project4\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+D:\Syracuse\Project4\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+D:\Syracuse\Project4\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+D:\Syracuse\Project4\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+D:\Syracuse\cse681_SMA\project 4\Project4\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb

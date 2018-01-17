@@ -1,0 +1,28 @@
+D:\Syracuse\Project4\FileStreamService\bin\Debug\FileStreamService.exe.config
+D:\Syracuse\Project4\FileStreamService\bin\Debug\FileStreamService.exe
+D:\Syracuse\Project4\FileStreamService\bin\Debug\FileStreamService.pdb
+D:\Syracuse\Project4\FileStreamService\bin\Debug\HRTimer.dll
+D:\Syracuse\Project4\FileStreamService\bin\Debug\Interface.dll
+D:\Syracuse\Project4\FileStreamService\bin\Debug\Logger.dll
+D:\Syracuse\Project4\FileStreamService\bin\Debug\Message.dll
+D:\Syracuse\Project4\FileStreamService\bin\Debug\HRTimer.pdb
+D:\Syracuse\Project4\FileStreamService\bin\Debug\Interface.pdb
+D:\Syracuse\Project4\FileStreamService\bin\Debug\Logger.pdb
+D:\Syracuse\Project4\FileStreamService\bin\Debug\Message.pdb
+D:\Syracuse\Project4\FileStreamService\obj\Debug\FileStreamService.csprojResolveAssemblyReference.cache
+D:\Syracuse\Project4\FileStreamService\obj\Debug\FileStreamService.exe
+D:\Syracuse\Project4\FileStreamService\obj\Debug\FileStreamService.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\FileStreamService.exe.config
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\FileStreamService.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\FileStreamService.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\HRTimer.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\Interface.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\Logger.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\Message.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\HRTimer.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\Interface.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\Logger.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\bin\Debug\Message.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\obj\Debug\FileStreamService.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\obj\Debug\FileStreamService.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\FileStreamService\obj\Debug\FileStreamService.pdb

@@ -1,0 +1,11 @@
+D:\Syracuse\Project4\Message\bin\Debug\Message.dll.config
+D:\Syracuse\Project4\Message\bin\Debug\Message.dll
+D:\Syracuse\Project4\Message\bin\Debug\Message.pdb
+D:\Syracuse\Project4\Message\obj\Debug\Message.dll
+D:\Syracuse\Project4\Message\obj\Debug\Message.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Message\bin\Debug\Message.dll.config
+D:\Syracuse\cse681_SMA\project 4\Project4\Message\bin\Debug\Message.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Message\bin\Debug\Message.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\Message\obj\Debug\Message.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Message\obj\Debug\Message.pdb

@@ -1,0 +1,156 @@
+Yaodong_2016-59-06-06-59-55-3587_ThreadID11.txt
+Yaodong
+12/6/2016 6:59:59 PM
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.

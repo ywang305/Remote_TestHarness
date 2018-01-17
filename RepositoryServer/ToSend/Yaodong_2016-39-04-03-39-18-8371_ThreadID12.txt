@@ -1,0 +1,54 @@
+Yaodong_2016-39-04-03-39-18-8371_ThreadID12.txt
+Yaodong
+12/4/2016 3:39:22 PM
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : FirstTest
+test result: passed
+test log   : demo test that always passes
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.
+test name  : SecondTest
+test result: failed
+test log   : demo test that always fails
+test name  : ThirdTest
+test result: error
+test log   : missing files: cannot read the test code or driver.

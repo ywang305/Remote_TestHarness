@@ -1,0 +1,30 @@
+﻿<Window x:Class="SecondClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SecondClient"
+        mc:Ignorable="d"
+        Title="client #2 demo" Height="350" Width="525">
+    <Grid>
+        <TabControl Name="tabControl" TabStripPlacement="Top">
+            <TabItem Header="Dispaly test result" Name="tabItem1">
+                <ListBox Name="listBox1"/>
+            </TabItem>
+            <TabItem Header="Upload Download files" Name="tabItem2">
+                <Grid ShowGridLines="True">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0"  Name="button1" Content="upload" Click="button1_Click" Margin="21,62,156,290"/>
+                    <Button Grid.Column="0"  Name="button2" Content="download"  Click="button2_Click" Margin="146,62,31,290"/>
+                    <Button Grid.Column="0" Name="button3" Content="test query" Click="button3_Click" Margin="47,132,78,217" />
+                    <ListBox Grid.Column="0" Name="listBox3" Margin="10,215,10,10"/>
+                    <TextBox Grid.Column="0" Name="textBox" HorizontalAlignment="Left" Height="23" Margin="10,22,0,0" TextWrapping="Wrap" Text="waiting for button click event" VerticalAlignment="Top" Width="229"/>
+                    <ListBox Grid.Column="1" Name="listBox2"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

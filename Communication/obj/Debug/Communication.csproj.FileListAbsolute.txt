@@ -1,0 +1,20 @@
+D:\Syracuse\Project4\Communication\bin\Debug\Communication.exe.config
+D:\Syracuse\Project4\Communication\bin\Debug\Communication.exe
+D:\Syracuse\Project4\Communication\bin\Debug\Communication.pdb
+D:\Syracuse\Project4\Communication\bin\Debug\CS-BlockingQueue.exe
+D:\Syracuse\Project4\Communication\bin\Debug\Message.dll
+D:\Syracuse\Project4\Communication\bin\Debug\CS-BlockingQueue.pdb
+D:\Syracuse\Project4\Communication\bin\Debug\Message.pdb
+D:\Syracuse\Project4\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\Syracuse\Project4\Communication\obj\Debug\Communication.exe
+D:\Syracuse\Project4\Communication\obj\Debug\Communication.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\bin\Debug\Communication.exe.config
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\bin\Debug\Communication.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\bin\Debug\Communication.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\bin\Debug\CS-BlockingQueue.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\bin\Debug\Message.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\bin\Debug\CS-BlockingQueue.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\bin\Debug\Message.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\obj\Debug\Communication.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\Communication\obj\Debug\Communication.pdb

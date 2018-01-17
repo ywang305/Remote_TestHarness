@@ -1,0 +1,52 @@
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\AnotherClientEnd.exe.config
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\AnotherClientEnd.exe
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\AnotherClientEnd.pdb
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\Communication.exe
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\HRTimer.dll
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\Interface.dll
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\Logger.dll
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\Message.dll
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\CS-BlockingQueue.exe
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\Communication.pdb
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\HRTimer.pdb
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\Interface.pdb
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\Logger.pdb
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\Message.pdb
+D:\Syracuse\Project4\AnotherClientEnd\bin\Debug\CS-BlockingQueue.pdb
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.csprojResolveAssemblyReference.cache
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\MainWindow.g.cs
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\App.g.cs
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd_MarkupCompile.cache
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd_MarkupCompile.lref
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\MainWindow.baml
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.g.resources
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.Properties.Resources.resources
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.csproj.GenerateResource.Cache
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.exe
+D:\Syracuse\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\AnotherClientEnd.exe.config
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\AnotherClientEnd.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\AnotherClientEnd.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\Communication.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\HRTimer.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\Interface.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\Logger.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\Message.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\CS-BlockingQueue.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\Communication.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\HRTimer.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\Interface.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\Logger.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\Message.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\bin\Debug\CS-BlockingQueue.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\MainWindow.g.cs
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\App.g.cs
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd_MarkupCompile.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd_MarkupCompile.lref
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\MainWindow.baml
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.g.resources
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.Properties.Resources.resources
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.csproj.GenerateResource.Cache
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\AnotherClientEnd\obj\Debug\AnotherClientEnd.pdb

@@ -1,0 +1,22 @@
+D:\Syracuse\Project4\Logger\bin\Debug\Logger.dll
+D:\Syracuse\Project4\Logger\bin\Debug\Logger.pdb
+D:\Syracuse\Project4\Logger\bin\Debug\CS-BlockingQueue.exe
+D:\Syracuse\Project4\Logger\bin\Debug\Interface.dll
+D:\Syracuse\Project4\Logger\bin\Debug\Message.dll
+D:\Syracuse\Project4\Logger\bin\Debug\CS-BlockingQueue.pdb
+D:\Syracuse\Project4\Logger\bin\Debug\Interface.pdb
+D:\Syracuse\Project4\Logger\bin\Debug\Message.pdb
+D:\Syracuse\Project4\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Syracuse\Project4\Logger\obj\Debug\Logger.dll
+D:\Syracuse\Project4\Logger\obj\Debug\Logger.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\bin\Debug\Logger.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\bin\Debug\Logger.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\bin\Debug\CS-BlockingQueue.exe
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\bin\Debug\Interface.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\bin\Debug\Message.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\bin\Debug\CS-BlockingQueue.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\bin\Debug\Interface.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\bin\Debug\Message.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\obj\Debug\Logger.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\Logger\obj\Debug\Logger.pdb

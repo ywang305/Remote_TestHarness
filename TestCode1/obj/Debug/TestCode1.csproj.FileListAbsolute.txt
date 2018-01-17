@@ -1,0 +1,9 @@
+D:\Syracuse\Project4\TestCode1\bin\Debug\TestCode1.dll
+D:\Syracuse\Project4\TestCode1\bin\Debug\TestCode1.pdb
+D:\Syracuse\Project4\TestCode1\obj\Debug\TestCode1.dll
+D:\Syracuse\Project4\TestCode1\obj\Debug\TestCode1.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\TestCode1\bin\Debug\TestCode1.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\TestCode1\bin\Debug\TestCode1.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\TestCode1\obj\Debug\TestCode1.csprojResolveAssemblyReference.cache
+D:\Syracuse\cse681_SMA\project 4\Project4\TestCode1\obj\Debug\TestCode1.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\TestCode1\obj\Debug\TestCode1.pdb

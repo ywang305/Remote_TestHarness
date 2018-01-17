@@ -1,0 +1,9 @@
+D:\Syracuse\Project4\HRTimer\bin\Debug\HRTimer.dll
+D:\Syracuse\Project4\HRTimer\bin\Debug\HRTimer.pdb
+D:\Syracuse\Project4\HRTimer\obj\Debug\HRTimer.dll
+D:\Syracuse\Project4\HRTimer\obj\Debug\HRTimer.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\HRTimer\bin\Debug\HRTimer.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\HRTimer\bin\Debug\HRTimer.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\HRTimer\obj\Debug\HRTimer.dll
+D:\Syracuse\cse681_SMA\project 4\Project4\HRTimer\obj\Debug\HRTimer.pdb
+D:\Syracuse\cse681_SMA\project 4\Project4\HRTimer\obj\Debug\HRTimer.csprojResolveAssemblyReference.cache
